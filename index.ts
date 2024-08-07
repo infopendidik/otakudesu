@@ -10,5 +10,5 @@ app.use(cors());
 app.use(routes);
 
 app.listen(port, () => {
-  console.log(`App is listening on port ${port}, http://localhost:${port}`);
+  console.log(`App is listening on port ${port}, https://otakudesu-lake.vercel.app:${port}`);
 });
