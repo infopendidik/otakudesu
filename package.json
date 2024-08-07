@@ -31,9 +31,4 @@
     "dotenv": "^16.0.3",
     "express": "^4.19.2"
   }
-  {
-  "scripts": {
-    "build": "[my-framework] build --output public"
-  }
-}
-}
+ }
